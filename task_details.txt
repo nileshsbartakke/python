@@ -1,0 +1,11 @@
+Objective : EDA 
+Exploratory Data analytics (Insights based on escriptive analytical results and Ideation) with the goal of coming with ideas on how Data Owner could potentially use the data to drive their business. 
+Ideas should be around ways it could be used to train certain ML models that could result in increase in effciencies.
+Or it could be the data analytics that shows some data insights which can be used to take business decisions.
+
+Data Source:
+Domain- A Real Estate focused CRM system
+File Name- all-people-2019-09-25.csv
+Data file contains 12524 lines, 101 fields
+
+Deliverable : Analytical results in the form of Jupyter Notebook which includes insights and/or ideas on how the data could be used for business driving Machine Learning models.
